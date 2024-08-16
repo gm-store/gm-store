@@ -1,14 +1,10 @@
-Welcome to GM Store 🌱
+Welcome to **GM Store**,
+Your destination for premium FiveM scripts. 🌱
 
-Developing creative Fivem scripts is what we love to do!  
-That is why we have created this store 🍃
-  
-We are coding unique Fivem scripts based on two ESX and QBCore popular frameworks!
+We develop creative FiveM scripts uniquely designed for **ESX** and **QBCore** frameworks.
+Check out our scripts in action on our **YouTube** Channel, where you can see detailed previews 🍃
 
-We also release an introduction video for each script.  
-You can watch the videos on YouTube.
+You can find us on **Tebex**, **GitHub**, **Cfx Forum**, **Youtube**, and **Discord**.
 
-GM Store is online on Tebex, GitHub, Cfx Forum, Youtube, and Discord.
-
-Create a Discord ticket if you have any problems.  
-We are always ready to support you 🌊
+For any help, just open a ticket on Discord.
+We are always here to assist you! 🌊
